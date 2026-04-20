@@ -24,20 +24,20 @@ var APP_DATA = {
       ],
       "faceSize": 1500,
       "initialViewParameters": {
-        "yaw": 0.45500185440830876,
-        "pitch": 0.018198688316187983,
-        "fov": 1.38217411905719
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": 0.07424721418452584,
-          "pitch": 0.08278468757413293,
-          "rotation": 5.497787143782138,
+          "yaw": -0.2591487474037564,
+          "pitch": 0.028465317811468438,
+          "rotation": 0.7853981633974483,
           "target": "1-02-piscina"
         },
         {
-          "yaw": 1.7271796307724898,
-          "pitch": -0.06609643120205355,
+          "yaw": 1.7270979238023365,
+          "pitch": -0.15111309156045571,
           "rotation": 0.7853981633974483,
           "target": "2-03-pasillo-nivel-02"
         }
@@ -68,15 +68,15 @@ var APP_DATA = {
       ],
       "faceSize": 1500,
       "initialViewParameters": {
-        "yaw": 0,
         "pitch": 0,
-        "fov": 1.38217411905719
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": 0.0222021324051056,
-          "pitch": 0.013319395856008498,
-          "rotation": 0.7853981633974483,
+          "yaw": 0.02650479028920749,
+          "pitch": 0.01177797147691706,
+          "rotation": 0,
           "target": "0-01-sala"
         }
       ],
@@ -112,33 +112,33 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.5155120263529369,
-          "pitch": 0.17492262960018934,
+          "yaw": 0.5362985848745634,
+          "pitch": 0.17384572207213367,
           "rotation": 1.5707963267948966,
           "target": "3-04-bao"
         },
         {
-          "yaw": -0.06651906989346834,
-          "pitch": 0.0971822235236921,
+          "yaw": -0.0969026463563658,
+          "pitch": 0.13981041395328475,
           "rotation": 0,
-          "target": "4-05habitacin-01"
+          "target": "4-05-habitacin-01"
         },
         {
-          "yaw": -0.8298668014724697,
-          "pitch": 0.23858485858219147,
+          "yaw": -0.7923458082973056,
+          "pitch": 0.1824689522154621,
           "rotation": 4.71238898038469,
           "target": "5-06-habitacin-02"
         },
         {
-          "yaw": -2.9666250404211887,
-          "pitch": 0.15014930391538428,
+          "yaw": -2.96524445102545,
+          "pitch": 0.14777614403875106,
           "rotation": 0.7853981633974483,
           "target": "6-07-habitacin-03"
         },
         {
-          "yaw": -1.9353251423275513,
-          "pitch": 0.42730330101893443,
-          "rotation": 4.71238898038469,
+          "yaw": -2.304711501237996,
+          "pitch": 0.32175842790515574,
+          "rotation": 2.356194490192345,
           "target": "0-01-sala"
         }
       ],
@@ -168,14 +168,14 @@ var APP_DATA = {
       ],
       "faceSize": 1500,
       "initialViewParameters": {
-        "yaw": -0.6793790375609348,
-        "pitch": 0.34507033101828455,
-        "fov": 1.38217411905719
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": -1.9295731414761264,
-          "pitch": 0.3582126935575758,
+          "yaw": -1.9272139473779326,
+          "pitch": 0.3260509263954319,
           "rotation": 5.497787143782138,
           "target": "2-03-pasillo-nivel-02"
         }
@@ -183,8 +183,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "4-05habitacin-01",
-      "name": "05HABITACIÓN 01",
+      "id": "4-05-habitacin-01",
+      "name": "05-HABITACIÓN-01",
       "levels": [
         {
           "tileSize": 256,
@@ -206,15 +206,15 @@ var APP_DATA = {
       ],
       "faceSize": 1500,
       "initialViewParameters": {
-        "yaw": -0.3410104846204334,
-        "pitch": 0.29869803109827053,
-        "fov": 1.38217411905719
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": 2.849664818843719,
-          "pitch": 0.1843429863806243,
-          "rotation": 5.497787143782138,
+          "yaw": 2.848816027274461,
+          "pitch": 0.1569932408892818,
+          "rotation": 4.71238898038469,
           "target": "2-03-pasillo-nivel-02"
         }
       ],
@@ -222,7 +222,7 @@ var APP_DATA = {
     },
     {
       "id": "5-06-habitacin-02",
-      "name": "06-HABITACIÓN 02",
+      "name": "06-HABITACIÓN-02",
       "levels": [
         {
           "tileSize": 256,
@@ -244,14 +244,14 @@ var APP_DATA = {
       ],
       "faceSize": 1500,
       "initialViewParameters": {
-        "yaw": -0.12618558851901973,
-        "pitch": 0.36548067811091656,
-        "fov": 1.38217411905719
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": -1.1541718047385103,
-          "pitch": 0.14410098553084083,
+          "yaw": -1.1474369663917177,
+          "pitch": 0.2025585682314901,
           "rotation": 4.71238898038469,
           "target": "2-03-pasillo-nivel-02"
         }
@@ -260,7 +260,7 @@ var APP_DATA = {
     },
     {
       "id": "6-07-habitacin-03",
-      "name": "07-HABITACIÓN 03",
+      "name": "07-HABITACIÓN-03",
       "levels": [
         {
           "tileSize": 256,
@@ -282,14 +282,14 @@ var APP_DATA = {
       ],
       "faceSize": 1500,
       "initialViewParameters": {
-        "yaw": 0.6682964130456277,
-        "pitch": 0.13404836110831297,
-        "fov": 1.38217411905719
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": 1.0426115040468087,
-          "pitch": 0.05874981852652539,
+          "yaw": 1.0288528942364046,
+          "pitch": 0.09192641510194122,
           "rotation": 1.5707963267948966,
           "target": "2-03-pasillo-nivel-02"
         }
@@ -297,7 +297,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "apto_palmas_de_mallorca",
+  "name": "APTO_PALMA_MALLORCA",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
